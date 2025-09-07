@@ -22,6 +22,7 @@ int main() {
             printf("Correct! You guessed it in %d guesses.\n", guesses);
         }
     } while (guess != number);
-    printf("Thankyou for playing!\nMade by Shantanu");
+    printf("Thank You for playing!\nMade by Shantanu");
     return 0;
 }
+
